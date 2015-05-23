@@ -1,6 +1,6 @@
 ##### OVERVIEW
 
-OpenTripPlanner (OTP) is an open source multi-modal trip planner. It depends on open data in open standard file formats (GTFS and OpenStreetMap), and includes a REST API for journey planning as well as several map-based Javascript clients. OpenTripPlanner can also create travel time contour visualizations and compute accessibility indicators for planning and research applications. For more information, see the project website: http://opentripplanner.org
+OpenTripPlanner (OTP) is an open source multi-modal trip planner. It depends on open data in open standard file formats (GTFS and OpenStreetMap), and includes a REST API for journey planning as well as several map-based Javascript clients. OpenTripPlanner can also create travel time contour visualizations and compute accessibility indicators for planning and research applications. For more information, see the project website: http://www.opentripplanner.org
 
 ##### INSTALL
 
@@ -27,7 +27,7 @@ OTP also includes the following subprojects which must be built separately:
 
 ##### DEVELOPMENT
 
-OpenTripPlanner is a collaborative project incorporating code, translation, and documentation from contributors around the world. We welcome new contributions and prefer to format our code according to GeoTools-based formatting guidelines; an Eclipse autoformatter can be found at the root of this project (https://raw.github.com/openplans/OpenTripPlanner/master/formatter.xml). Further development guidelines can be found on the project wiki (https://github.com/openplans/OpenTripPlanner/wiki/DevelopersGuide).
+OpenTripPlanner is a collaborative project incorporating code, translation, and documentation from contributors around the world. We welcome new contributions and prefer to format our code according to GeoTools-based formatting guidelines; an Eclipse autoformatter can be found at the root of this [project](https://raw.github.com/openplans/OpenTripPlanner/master/formatter.xml). Further development guidelines can be found on the project wiki (https://github.com/openplans/OpenTripPlanner/wiki/DevelopersGuide).
 
 The OpenTripPlanner project was launched by Portland, Oregon's transport agency TriMet (http://trimet.org/), and began in July of 2009 with a kick-off conference bringing together transit agencies and the authors of the major open source transit passenger information software of the day: David Emory of FivePoints, Brian Ferris of OneBusAway, and Brandon Martin-Anderson of GraphServer. From 2008 through 2012, development was coordinated by New York nonprofit OpenPlans (http://openplans.org/). By early 2013, OpenTripPlanner had become the primary trip planning software used by TriMet in the Portland regional trip planner (http://ride.trimet.org/) and was backing several popular mobile applications. Public-facing OpenTripPlanner instances were available in ten countries throughout the world. At this point the OpenPlans transportation software team became the independent consultancy Conveyal (http://www.conveyal.com/). The original OpenTripPlanner development team from OpenPlans still actively participates in programming, design, and community coordination via the mailing list and their roles on the OTP Project Leadership Committee.
 
